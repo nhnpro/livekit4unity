@@ -21,9 +21,6 @@
   "displayName": "LiveKit4Unity",
   "unity": "2021.1",
   "dependencies": {
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
-    "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
-    "com.gameworkstore.googleprotobufunity": "https://github.com/GameWorkstore/google-protobuf-unity.git#3.15.2012",
     "com.unity.webrtc": "2.4.0-exp.11"
   }
 }
