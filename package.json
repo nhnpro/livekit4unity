@@ -1,0 +1,29 @@
+﻿{
+  "name": "com.namnh.livekit4unity",
+  "version": "0.0.1",
+  "description": "LiveKit Unity SDK - This NON-OFFICIAL package is used to integrate LiveKit into Unity projects",
+  "license": "private use",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhnpro/livekit4unity.git"
+  },
+  "author": {
+    "name": "NamNH",
+    "email": "nhnpro.nguyenhoang@gmail.com",
+    "url": "https://github.com/nhnpro"
+  },
+  "keywords": [
+    "unity",
+    "livekit",
+    "live stream",
+    "webrtc"
+  ],
+  "displayName": "LiveKit4Unity",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.endel.nativewebsocket": "https://github.com/endel/NativeWebSocket.git#upm",
+    "com.gameworkstore.googleprotobufunity": "https://github.com/GameWorkstore/google-protobuf-unity.git#3.15.2012",
+    "com.unity.webrtc": "2.4.0-exp.11"
+  }
+}
